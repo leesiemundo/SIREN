@@ -1,5 +1,4 @@
 # siren-model
-SNS 게시글 분석을 통한 자살 위험 신호 탐지 시스템, SIREN 프로젝트의 일부인 "C-SSRS 분류 모델"의 학습을 위한 데이터셋과 코드입니다.
 <img width="4999" height="2812" alt="image" src="https://github.com/user-attachments/assets/6f7ced5c-ba1e-4bd2-aaaa-89e0b88cd258" />
 SIREN은 SNS에 올라온 게시글에 담긴 자살위험 신호를 분석하여 위기에 처한 요구조자를 능동적으로 사전 탐지하고, 이에 적절하게 대응하기 위해 제시된 솔루션입니다.
 
