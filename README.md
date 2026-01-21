@@ -1,7 +1,8 @@
 # siren-model
 <img width="4999" height="2812" alt="image" src="https://github.com/user-attachments/assets/6f7ced5c-ba1e-4bd2-aaaa-89e0b88cd258" />
 SIREN은 SNS에 올라온 게시글에 담긴 자살위험 신호를 분석하여 위기에 처한 요구조자를 능동적으로 사전 탐지하고, 이에 적절하게 대응하기 위해 제시된 솔루션입니다.
-\n본 Repository는 SIREN의 핵심 모델인 "C-SSRS 분류 모델"을 학습시키기 위한 데이터셋과 코드를 담고 있습니다.
+본 Repository는 SIREN의 핵심 모델인 "C-SSRS 분류 모델"을 학습시키기 위한 데이터셋과 코드를 담고 있습니다.
+
 
 데이터셋은 아래와 같은 방법을 통해 구축되었습니다.
 <img width="4999" height="2812" alt="image" src="https://github.com/user-attachments/assets/78d9b7d8-e629-47cc-ba90-a75c648e4644" />
